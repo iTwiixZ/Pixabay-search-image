@@ -5,9 +5,8 @@
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
-    "start": "react-native start",
-    "test": "jest",
-    "lint": "eslint ."
+    "start": "react-native start"
+    
   },
   "dependencies": {
     "@react-native-material/core": "^1.3.7",
